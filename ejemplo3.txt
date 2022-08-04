@@ -1,0 +1,12 @@
+El problema constituye un proceso de sustitucion poli alfabetica, donde
+cada una de las letras que conforman el mensaje a cifrar, es remplazada
+por otra letra utilizando una clave de cifrado; esta transformacion
+genera un mensaje encriptado, conocido como criptograma.
+El metodo de cifrado consiste en usar un alfabeto con desplazamientos y
+una clave de cifrado, para ello se requiere una tabla de 27x27 casilleros
+que van de la a a la z tanto en filas como en columnas. La primera
+fila de la tabla tiene las 27 letras de la a a la z. La segunda fila
+se desplaza una posicion y comienza desde la b a la z, agregando al
+final la letra a. La tercera fila se desplaza dos posiciones y comienza
+en la c para terminar en la z agregando al final las letras a y
+b. Y asi sucesivamente. La tabla queda de la siguiente manera

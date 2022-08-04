@@ -1,0 +1,2 @@
+Para poder disfrutar de la aplicación, debes abrir tu carpeta de OneDrive y crear una carpeta llamada ProyectoPython
+, depués debes colocar el archivo de excel dentro de la carpeta que acabas de crear y listo.
